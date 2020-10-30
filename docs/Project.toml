@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+MitosisCatalyst = "96bd2ddc-68ff-4dc4-910b-05b31f74a3de"
